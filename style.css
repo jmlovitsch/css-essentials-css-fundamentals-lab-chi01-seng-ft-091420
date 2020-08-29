@@ -12,3 +12,6 @@ img {
  align-items: center;
 }
 
+#details {
+display: float left;
+}
