@@ -20,6 +20,9 @@ nav a {
   background-color: gray;
 }
 
+p {
+  justify-items: center
+}
 #featured-property p{
   width: 800px;
   text-align: center;
