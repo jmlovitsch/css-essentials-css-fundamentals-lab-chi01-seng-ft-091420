@@ -15,6 +15,11 @@ img {
   width: 50%;;
 }
 
+nav a {
+  padding: 10px
+  background-color: gray;
+}
+
 #featured-property p{
   width: 800px;
   text-align: center;
