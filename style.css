@@ -12,6 +12,10 @@ img {
  align-items: center;
 }
 
+#featured-property p {
+  width: 900px;
+}
+
 #details div {
 display: block;
 float: left;
