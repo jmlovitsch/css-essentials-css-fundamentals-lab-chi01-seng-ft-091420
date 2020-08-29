@@ -13,5 +13,6 @@ img {
 }
 
 #details {
-display: float: left;
+display: block;
+float: left;
 }
